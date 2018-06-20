@@ -3,7 +3,7 @@
 #include <vector>
 #include <string.h>
 
-using namespace std;
+using namespace std; //tutaj komentarz, aby byly jakies zmiany
 
 void bin(int a)
 {
